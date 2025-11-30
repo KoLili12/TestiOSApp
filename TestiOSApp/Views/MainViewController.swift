@@ -102,7 +102,7 @@ final class MainViewController: UIViewController {
             self?.viewModel.loadItems()
         }))
         
-        alert.addAction(UIAlertAction(title: "Продолжить работу в автаномном режиме", style: .cancel, handler: { [weak self] _ in
+        alert.addAction(UIAlertAction(title: "Продолжить работу в автономном режиме", style: .cancel, handler: { [weak self] _ in
             self?.viewModel.loadItemsFromCoreData()
         }))
         self.present(alert, animated: true, completion: nil)

@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="Screens/posts.png" width="250">
-  <img src="Screens/loading" width="250">
-  <img src="Screens/refresh" width="250">
+  <img src="Screens/loading.png" width="250">
+  <img src="Screens/refresh.png" width="250">
   <img src="Screens/error.png" width="250">
 </p>
 

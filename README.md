@@ -6,10 +6,10 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="screenshots/posts.png" width="250">
-  <img src="screenshots/loading" width="250">
-  <img src="screenshots/refresh" width="250">
-  <img src="screenshots/error.png" width="250">
+  <img src="Screens/posts.png" width="250">
+  <img src="Screens/loading" width="250">
+  <img src="Screens/refresh" width="250">
+  <img src="Screens/error.png" width="250">
 </p>
 
 ## Архитектура
